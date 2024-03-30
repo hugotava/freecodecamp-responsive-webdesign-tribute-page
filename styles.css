@@ -1,0 +1,25 @@
+img {
+  display: block;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+body {
+  font-family: Calibri;
+}
+
+p {
+  text-align: center;
+}
+
+#tribute-info {
+  background-color: rgb(241, 241, 241)
+}
